@@ -27,3 +27,10 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: boolean
+- type: color
+  config:
+    color_format: Hex
+  label: Color
+  name: color
+  description: Choose your color..
