@@ -6,17 +6,18 @@ fields:
 - type: text
   name: title
   label: Title
+  default: Project
 - name: sub_heading
   label: Sub Heading
   type: text
   hidden: false
-  default: ''
+  default: New Project
 - name: banner_image
   label: Banner Image
   type: file
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
-  default: ''
+  default: "/uploads/2018/02/17/building3.jpg"
 - name: tags
   label: Tags
   type: tag_list
@@ -26,8 +27,9 @@ fields:
   label: Slug
   type: text
   hidden: false
-  default: ''
+  default: Photo
 - type: boolean
+  default: false
 - type: color
   config:
     color_format: Hex
