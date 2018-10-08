@@ -34,3 +34,4 @@ fields:
   label: Color
   name: color
   description: Choose your color..
+  default: "#50E3C2"
