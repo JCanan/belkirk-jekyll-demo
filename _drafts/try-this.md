@@ -4,3 +4,34 @@ layout: post
 date: 2018-10-08 10:22:26 +0000
 
 ---
+# Try This..
+
+Keep going till you can't!
+
+#### Getting Started
+
+More sentences for the post. Just make a few more till you cover another line or so and then we can move on and add a photo or something cool like that! Still trying to wrap my head around this.
+
+###### Small and clean list.
+
+* One
+* Two
+* Three
+
+###### Let's add a numbered list.
+
+1. One
+2. Two
+3. Three
+
+> Yay. Now we have some things going on.
+
+Let's try a simple text [link](# "link").
+
+![](/uploads/2018/02/17/building3.jpg)
+
+    .code {
+    	color: $primary
+    }
+
+# [THIS IS SWEET!]()
