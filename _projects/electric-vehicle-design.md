@@ -8,7 +8,7 @@ sub_heading: 'Human centered design in the electric vehicle era '
 slug: ''
 menu:
   navigation:
-    weight: 6
+    weight: 4
     title: Latest
 
 ---
